@@ -1,0 +1,8 @@
+body{
+    background-color:green;
+}
+.text{
+    text-align: center;
+    color: green;
+    text-transform: capitalize;
+}
